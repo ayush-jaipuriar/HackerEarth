@@ -1,2 +1,2 @@
 # HackerEarth
-This repository contains my HackerEarth problem solutions
+This repository contains my HackerEarth problem solutions.
